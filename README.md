@@ -1,7 +1,6 @@
-# Reviewer Submission Code (Numeric Outputs Only)
+# Reviewer Submission Code
 
-This package reproduces **all Methods computations** for the delayed adaptive feedback model and outputs **numeric results only** (no figures).
-
+This package reproduces **all Methods computations** for the delayed adaptive feedback model and outputs.
 ## What it computes
 - Success rate **S(τ)** for each (ε, σ, dφ) condition across τ
 - Critical delay **τc** defined by **S(τc)=0.5** (linear interpolation)
